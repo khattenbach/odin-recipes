@@ -9,3 +9,15 @@ h1 {
     margin: 25px auto;
     padding: 16px;
 }
+
+.button-home, .button-tacos,
+.button-chicken-parm, .button-bbq-chicken-pizza {
+    background-color: rgb(147, 148, 255);
+    border: black 2px solid;
+    border-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    margin: 10px auto;
+}
+
